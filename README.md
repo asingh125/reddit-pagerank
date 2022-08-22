@@ -5,4 +5,4 @@
 ## Instructions to Run: 
 
 1. Download source code from github
-2. Run main method within {{PageRankRunner.java}}
+2. Run main method within ```PageRankRunner.java```
